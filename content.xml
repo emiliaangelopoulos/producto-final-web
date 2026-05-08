@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>202605071406325EWBT8</value>
+    <value>202605080900257GDQUJ</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260507140632FK3IIR</value>
+    <value>20260508090025IN00SS</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -56,7 +56,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1778155453117</value>
+    <value>1778221910921</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -89,7 +89,7 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>page-movfughm-pqggoe0ym</odePageId>
+  <odePageId>page-mowjevpg-zvajfprh3</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Presentación y descripción del proyecto </pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
@@ -125,7 +125,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-movfughm-pqggoe0ym</odePageId>
+      <odePageId>page-mowjevpg-zvajfprh3</odePageId>
       <odeBlockId>block-1778075689450-a6uvxdukw</odeBlockId>
       <blockName>Habilidades profesionales para la inserción laboral en la era digital</blockName>
       <iconName></iconName>
@@ -154,7 +154,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-movfughm-pqggoe0ym</odePageId>
+          <odePageId>page-mowjevpg-zvajfprh3</odePageId>
           <odeBlockId>block-1778075689450-a6uvxdukw</odeBlockId>
           <odeIdeviceId>idevice-1778075689445-1g4dbvkuj</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -184,7 +184,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-movfugho-5zso6v6xh</odePageId>
+  <odePageId>page-mowjevph-kwy2xbx02</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Información sobre datos personales y garantía de derechos digitales</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
@@ -220,7 +220,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-movfugho-5zso6v6xh</odePageId>
+      <odePageId>page-mowjevph-kwy2xbx02</odePageId>
       <odeBlockId>block-1778075960697-ynrx4okc0</odeBlockId>
       <blockName>Protege tu identidad digital</blockName>
       <iconName></iconName>
@@ -249,7 +249,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-movfugho-5zso6v6xh</odePageId>
+          <odePageId>page-mowjevph-kwy2xbx02</odePageId>
           <odeBlockId>block-1778075960697-ynrx4okc0</odeBlockId>
           <odeIdeviceId>idevice-1778075960692-rcvim89ry</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -278,7 +278,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-movfugho-w2ie9p905</odePageId>
+  <odePageId>page-mowjevph-49z25sdji</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Curación de contenidos </pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
@@ -314,7 +314,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-movfugho-w2ie9p905</odePageId>
+      <odePageId>page-mowjevph-49z25sdji</odePageId>
       <odeBlockId>block-1778076071799-tc94qq8b7</odeBlockId>
       <blockName>Recursos para crear tu perfil profesional digital</blockName>
       <iconName></iconName>
@@ -343,7 +343,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-movfugho-w2ie9p905</odePageId>
+          <odePageId>page-mowjevph-49z25sdji</odePageId>
           <odeBlockId>block-1778076071799-tc94qq8b7</odeBlockId>
           <odeIdeviceId>idevice-1778076071794-11wo95ddb</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -372,8 +372,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-movfughp-b0iyfgctj</odePageId>
-  <odeParentPageId>page-movfugho-w2ie9p905</odeParentPageId>
+  <odePageId>page-mowjevph-rmbmobpol</odePageId>
+  <odeParentPageId>page-mowjevph-49z25sdji</odeParentPageId>
   <pageName>Symbaloo: Marcadores y Favoritos - La PágSymbaloo: Marcadores y Favoritos - La Página de Inicio #1 para los Educadoresina de Inicio #1 para los Educadores</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -408,7 +408,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-movfughp-b0iyfgctj</odePageId>
+      <odePageId>page-mowjevph-rmbmobpol</odePageId>
       <odeBlockId>block-1778076274752-inwpfgxg5</odeBlockId>
       <blockName>Curación de contenidos destinado al alumnado</blockName>
       <iconName></iconName>
@@ -437,7 +437,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-movfughp-b0iyfgctj</odePageId>
+          <odePageId>page-mowjevph-rmbmobpol</odePageId>
           <odeBlockId>block-1778076274752-inwpfgxg5</odeBlockId>
           <odeIdeviceId>idevice-1778076274746-p7z9hv1yg</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -467,7 +467,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-movfughp-ap1r00k42</odePageId>
+  <odePageId>page-mowjevpi-a8g9jrp23</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Línea temporal de actividades y tareas</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
@@ -503,7 +503,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-movfughp-ap1r00k42</odePageId>
+      <odePageId>page-mowjevpi-a8g9jrp23</odePageId>
       <odeBlockId>block-1778076410704-plg6uax10</odeBlockId>
       <blockName>Creación de perfil profesional digital</blockName>
       <iconName></iconName>
@@ -532,7 +532,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-movfughp-ap1r00k42</odePageId>
+          <odePageId>page-mowjevpi-a8g9jrp23</odePageId>
           <odeBlockId>block-1778076410704-plg6uax10</odeBlockId>
           <odeIdeviceId>idevice-1778076410701-6c3vfurqf</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -562,7 +562,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-movfughq-9gshomhey</odePageId>
+  <odePageId>page-mowjevpi-loxtkv28q</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Criterios de evaluación</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
@@ -598,7 +598,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-movfughq-9gshomhey</odePageId>
+      <odePageId>page-mowjevpi-loxtkv28q</odePageId>
       <odeBlockId>block-1778076580535-cfhknpais</odeBlockId>
       <blockName>Relación entre tareas y criterios de evaluación</blockName>
       <iconName></iconName>
@@ -627,7 +627,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-movfughq-9gshomhey</odePageId>
+          <odePageId>page-mowjevpi-loxtkv28q</odePageId>
           <odeBlockId>block-1778076580535-cfhknpais</odeBlockId>
           <odeIdeviceId>idevice-1778076580530-p0e9prxc</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -656,7 +656,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-movfughq-wsiu0jlcc</odePageId>
+  <odePageId>page-mowjevpi-8bfkuhqur</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Instrumentos de evaluación </pageName>
   <odeNavStructureOrder>5</odeNavStructureOrder>
@@ -692,7 +692,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-movfughq-wsiu0jlcc</odePageId>
+      <odePageId>page-mowjevpi-8bfkuhqur</odePageId>
       <odeBlockId>block-1778076816929-ipqp5njm4</odeBlockId>
       <blockName>Instrumentos de evaluación</blockName>
       <iconName></iconName>
@@ -721,7 +721,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-movfughq-wsiu0jlcc</odePageId>
+          <odePageId>page-mowjevpi-8bfkuhqur</odePageId>
           <odeBlockId>block-1778076816929-ipqp5njm4</odeBlockId>
           <odeIdeviceId>idevice-1778076816924-uagur6ryw</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -744,6 +744,131 @@
               <key>cssClass</key>
               <value></value>
             </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778221967597-mylxcdz2b</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778221967597-mylxcdz2b</odePageId>
+      <odeBlockId>block-1778221978154-agpxonwxc</odeBlockId>
+      <blockName>Guía didáctica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778221967597-mylxcdz2b</odePageId>
+          <odeBlockId>block-1778221978154-agpxonwxc</odeBlockId>
+          <odeIdeviceId>idevice-1778221978151-8cxgxevu9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En el siguiente documento se relacionan tareas del proyecto con criterios de evaluación. <a href="https://drive.google.com/file/d/1GnhpxRgfSy2iX2DpWU1K4JIym1bxc003/view?usp=sharing" title="">https://drive.google.com/file/d/1GnhpxRgfSy2iX2DpWU1K4JIym1bxc003/view?usp=sharing</a></p>
+<p>Competencias desarrolladas y recomendaciones metodológicas. <a href="https://canva.link/jix70goa05zy7af" title="">https://canva.link/jix70goa05zy7af</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778221978151-8cxgxevu9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el siguiente documento se relacionan tareas del proyecto con criterios de evaluación. <a href=\"https://drive.google.com/file/d/1GnhpxRgfSy2iX2DpWU1K4JIym1bxc003/view?usp=sharing\" title=\"\">https://drive.google.com/file/d/1GnhpxRgfSy2iX2DpWU1K4JIym1bxc003/view?usp=sharing</a></p>\n<p>Competencias desarrolladas y recomendaciones metodológicas. <a href=\"https://canva.link/jix70goa05zy7af\" title=\"\">https://canva.link/jix70goa05zy7af</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778223110122-z18p3tror</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos </pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778223110122-z18p3tror</odePageId>
+      <odeBlockId>block-1778223269078-ja5k52g29</odeBlockId>
+      <blockName>Créditos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778223110122-z18p3tror</odePageId>
+          <odeBlockId>block-1778223269078-ja5k52g29</odeBlockId>
+          <odeIdeviceId>idevice-1778223269076-v36nipv1s</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Autoría</p>
+<p>Proyecto elaborado por:<br />Emilia Angelopoulos Codes </p>
+<p>Descripción</p>
+<p>Recurso educativo digital creado con eXeLearning para el desarrollo de competencias profesionales y digitales relacionadas con la inserción laboral en Formación Profesional.</p>
+<p>Licencia de uso</p>
+<p>Este recurso se comparte bajo licencia:</p>
+<p>Creative Commons BY-NC-SA 4.0</p>
+<p>Recursos utilizados</p>
+<p>- ExeLearning <br />- Canva <br />- GitHub Pages <br />- Symbaloo <br />- Recursos educativos digitales de uso libre</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778223269076-v36nipv1s","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Autoría</p>\n<p>Proyecto elaborado por:<br />Emilia Angelopoulos Codes </p>\n<p>Descripción</p>\n<p>Recurso educativo digital creado con eXeLearning para el desarrollo de competencias profesionales y digitales relacionadas con la inserción laboral en Formación Profesional.</p>\n<p>Licencia de uso</p>\n<p>Este recurso se comparte bajo licencia:</p>\n<p>Creative Commons BY-NC-SA 4.0</p>\n<p>Recursos utilizados</p>\n<p>- ExeLearning <br />- Canva <br />- GitHub Pages <br />- Symbaloo <br />- Recursos educativos digitales de uso libre</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
